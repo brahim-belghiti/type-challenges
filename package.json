@@ -15,7 +15,7 @@
     "utils:release": "pnpm -C utils release"
   },
   "dependencies": {
-    "esno": "^4.0.0",
+    "esno": "^4.7.0",
     "fast-glob": "^3.3.2",
     "fs-extra": "^11.2.0",
     "js-yaml": "^4.1.0",
